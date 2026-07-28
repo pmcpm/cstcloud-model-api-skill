@@ -1,0 +1,21 @@
+# Credentials and local configuration
+.env
+.env.*
+api-keys.json
+credentials.json
+secrets.json
+*.key
+*.pem
+
+# Python/runtime artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local outputs and editor files
+work/
+outputs/
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

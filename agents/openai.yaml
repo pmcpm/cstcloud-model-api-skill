@@ -1,0 +1,4 @@
+interface:
+  display_name: "中国科技云大模型 API"
+  short_description: "直连中国科技云的对话、多模态、向量、重排与 OCR 接口"
+  default_prompt: "Use $cstcloud-model-api to call an authorized CSTCloud model for this task."
